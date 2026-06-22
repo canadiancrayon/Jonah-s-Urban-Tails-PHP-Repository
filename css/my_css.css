@@ -1,0 +1,49 @@
+.my_max_site_width {
+    max-width: 750px;
+}
+.my_quote {
+    font-size: 0.85em;
+    font-style: italic;
+}
+.my_absolute {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.my_relative {
+    position: relative;
+}
+.responsive-logo {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+.w3-panel,
+.w3-card-4,
+.w3-half.w3-padding.w3-center {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.my_absolute img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.my_absolute .w3-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 36px;
+    margin: 0;
+    padding: 8px;
+    background-color: #2196F3 !important;
+    color: white;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
